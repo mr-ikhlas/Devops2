@@ -4,3 +4,4 @@ sum=a+b;
 print("Addition of 2 numbers=",sum)
 sub=a-b;
 print("Substract of 2 numbers=",sub)
+print("thank you")
